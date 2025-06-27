@@ -23,8 +23,6 @@ This repository contains a well-organized collection of test codes and example p
 
 ## 🗂 Folder Structure
 
-## 🗂 Folder Structure
-
 ```
 EmbeddedBoardAndModuleTestSuite/
 │
@@ -38,7 +36,7 @@ EmbeddedBoardAndModuleTestSuite/
 │   ├── STM32/
 │   └── ...
 │
-├── Zyxel/
+├── ZYNQ/
 │   └── ...
 │
 ├── SharedLibraries/
