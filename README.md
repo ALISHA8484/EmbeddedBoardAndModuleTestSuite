@@ -23,54 +23,34 @@ This repository contains a well-organized collection of test codes and example p
 
 ## 🗂 Folder Structure
 
+## 🗂 Folder Structure
+
+```
 EmbeddedBoardAndModuleTestSuite/
-
 │
-
 ├── Arduino/
-
-│ ├── Sensors/
-
-│ ├── Displays/
-
-│ ├── Communication/
-
-│ └── ...
-
+│   ├── Sensors/
+│   ├── Displays/
+│   ├── Communication/
+│   └── ...
 │
-
 ├── ARM/
-
-│ ├── STM32/
-
-│ └── ...
-
+│   ├── STM32/
+│   └── ...
 │
-
-├── ZYNQ/
-
-│ ├── ...
-
+├── Zyxel/
+│   └── ...
 │
-
 ├── SharedLibraries/
-
-│ └── Common reusable libraries
-
+│   └── Common reusable libraries
 │
-
 ├── Docs/
-
-│ ├── GettingStarted.md
-
-│ ├── WiringGuides/
-
-│ └── Troubleshooting.md
-
+│   ├── GettingStarted.md
+│   ├── WiringGuides/
+│   └── Troubleshooting.md
 │
-
 └── README.md
-
+```
 
 ---
 
