@@ -40,20 +40,35 @@ EmbeddedBoardAndModuleTestSuite/
 │
 
 ├── ARM/
+
 │ ├── STM32/
+
 │ └── ...
+
 │
+
 ├── ZYNQ/
+
 │ ├── ...
+
 │
+
 ├── SharedLibraries/
+
 │ └── Common reusable libraries
+
 │
+
 ├── Docs/
+
 │ ├── GettingStarted.md
+
 │ ├── WiringGuides/
+
 │ └── Troubleshooting.md
+
 │
+
 └── README.md
 
 
