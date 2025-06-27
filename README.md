@@ -1,6 +1,6 @@
 # Embedded Board and Module Test Suite
 
-This repository contains a well-organized collection of test codes and example projects for various development boards (Arduino, ARM-based, Zyxel) and electronic modules (sensors, displays, communication modules, and more). The goal is to provide a centralized platform for testing, validation, and learning embedded systems.
+This repository contains a well-organized collection of test codes and example projects for various development boards (Arduino, ARM-based, ZYNQ) and electronic modules (sensors, displays, communication modules, and more). The goal is to provide a centralized platform for testing, validation, and learning embedded systems.
 
 ---
 
@@ -55,7 +55,7 @@ EmbeddedBoardAndModuleTestSuite/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/EmbeddedBoardAndModuleTestSuite.git
+   git clone https://github.com/ALISHA8484/EmbeddedBoardAndModuleTestSuite.git
 2. Navigate to the folder of the desired board/module.
 
 3. Open the code with the appropriate IDE and upload:
