@@ -24,13 +24,21 @@ This repository contains a well-organized collection of test codes and example p
 ## 🗂 Folder Structure
 
 EmbeddedBoardAndModuleTestSuite/
+
 │
+
 ├── Arduino/
+
 │ ├── Sensors/
+
 │ ├── Displays/
+
 │ ├── Communication/
+
 │ └── ...
+
 │
+
 ├── ARM/
 │ ├── STM32/
 │ └── ...
